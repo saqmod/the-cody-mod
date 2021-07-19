@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="codySpeechBox.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speech instance 10000" x="50" y="50" width="1242" height="332"/>
+	<SubTexture name="speech instance 10002" x="50" y="432" width="1242" height="332"/>
+	<SubTexture name="speech instance 10005" x="50" y="814" width="1242" height="332"/>
+</TextureAtlas>

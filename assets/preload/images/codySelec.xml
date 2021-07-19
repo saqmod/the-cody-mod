@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="codySelec.png"><SubTexture name="codySelec idle0000" x="0" y="0" width="328" height="664" frameX="0" frameY="0" frameWidth="328" frameHeight="664" />
+<SubTexture name="codySelec idle0001" x="328" y="0" width="328" height="664" frameX="0" frameY="0" frameWidth="328" frameHeight="664" />
+<SubTexture name="codySelec idle0002" x="656" y="0" width="328" height="664" frameX="0" frameY="0" frameWidth="328" frameHeight="664" />
+<SubTexture name="codySelec idle0003" x="984" y="0" width="331" height="664" frameX="0" frameY="0" frameWidth="331" frameHeight="664" />
+</TextureAtlas>

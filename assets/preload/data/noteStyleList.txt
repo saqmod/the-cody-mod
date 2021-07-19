@@ -1,0 +1,3 @@
+normal
+normalX
+pixel

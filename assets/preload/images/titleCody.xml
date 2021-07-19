@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="titleCody.png"><SubTexture name="titleCody move0000" x="0" y="0" width="631" height="765" frameX="0" frameY="0" frameWidth="631" frameHeight="765" />
+<SubTexture name="titleCody move0001" x="631" y="0" width="631" height="765" frameX="0" frameY="0" frameWidth="631" frameHeight="765" />
+</TextureAtlas>
