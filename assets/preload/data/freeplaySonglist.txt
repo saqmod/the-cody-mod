@@ -4,3 +4,4 @@ Conflict:cody:1
 Clashsterfunk:coby:1
 Bipolar:cobyX:2
 Citronella:cobyX:2
+Thunderclap:cobyX:2
